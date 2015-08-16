@@ -1,0 +1,15 @@
+pkgbase = libasciimap-git
+	pkgdesc = Silly library for displaying silly fancy ASCII art (+ ASCIIMapReader).
+	pkgver = r0.gf28c8f3
+	pkgrel = 1
+	url = http://github.com/Zatherz/libasciimap/
+	arch = x86_64
+	arch = i686
+	license = GPLv2
+	makedepends = git
+	depends = liborbos-string
+	source = git://github.com/Zatherz/libasciimap
+	md5sums = SKIP
+
+pkgname = libasciimap-git
+
